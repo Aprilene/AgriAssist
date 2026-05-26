@@ -44,7 +44,7 @@ Technology
 - JavaScript (Vanilla) - Dynamic UI interactions
 - Progressive Web App (PWA) - Mobile-first farmer interfaceFont AwesomeIcons
 
-#Database
+# Database
 - MySQL - Primary relational database
 - phpMyAdmin - Database administration (local)
 
