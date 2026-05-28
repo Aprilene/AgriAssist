@@ -114,3 +114,6 @@ This project was developed as an final academic requirement for ITST 303 – Web
 
 # Canva Link Presentation
 - https://canva.link/hwi8rogsswli4k9
+
+# Youtube Presentation Link
+- https://www.youtube.com/watch?v=ALK6uJkWEP0
